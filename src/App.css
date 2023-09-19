@@ -44,7 +44,7 @@ h3 {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  overflow-y: scroll;
+  overflow-y: auto;
   background-color: #0b0c10;
   color: whitesmoke;
   max-width: 160rem;
