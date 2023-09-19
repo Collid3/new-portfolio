@@ -6,6 +6,7 @@
 
 html {
   font-size: 62.5%;
+  background-color: #0b0c10;
 }
 
 img {
@@ -46,6 +47,8 @@ h3 {
   overflow-y: scroll;
   background-color: #0b0c10;
   color: whitesmoke;
+  max-width: 160rem;
+  margin: 0 auto;
 }
 
 header,
