@@ -65,6 +65,14 @@ header nav ul li:hover {
   text-decoration: underline;
 }
 
+header nav .selected {
+  color: #66fcf1;
+}
+
+.hero-container {
+  width: 100%;
+}
+
 .hero-container p {
   display: block;
   max-width: 55rem;
@@ -94,6 +102,17 @@ header nav ul li:hover {
   background-color: #66fcf1;
   color: #0b0c10;
   transition: all 0.3s;
+}
+
+.main-hero {
+  max-width: 100rem;
+  margin: 0 auto;
+}
+
+.main-hero img {
+  width: 50%;
+  border-radius: 50%;
+  height: 28rem;
 }
 
 .skills-container ul {
@@ -145,11 +164,14 @@ header nav ul li:hover {
 }
 
 .contact-container {
+  flex-grow: 1;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   gap: 1rem;
   padding: 0 1rem;
-  max-width: 150rem;
+  max-width: 120rem;
+  margin: 0 auto;
 }
 
 .contact-container p:first-child {
