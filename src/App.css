@@ -48,6 +48,7 @@ h3 {
   background-color: #0b0c10;
   color: whitesmoke;
   margin: 0 auto;
+  min-width: 375px;
 }
 
 header,
@@ -212,6 +213,12 @@ header nav .selected {
   background-color: #66fcf1;
   color: #0b0c10;
   transition: all 0.3s;
+}
+
+@media screen and (max-width: 992px) {
+  .main-hero img {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 767px) {
