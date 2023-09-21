@@ -173,6 +173,7 @@ header nav .selected {
   justify-content: center;
   gap: 1rem;
   padding: 0 1rem;
+  padding-bottom: 2rem;
   max-width: 120rem;
   margin: 0 auto;
 }
