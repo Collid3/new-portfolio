@@ -13,6 +13,14 @@ const Projects = () => {
       liveLink: "https://seroba-movies.onrender.com",
     },
     {
+      image: "cakelicious.png",
+      name: "Cakelicious",
+      description:
+        "An application I built for my sisters cake company. I saw an opportunity to get out of tutorial hell and make use of my skills while being creative and hard thinking and I took it. It is not finished yet, but i hope you get the idea of where I am going with it",
+      githubLink: "https://github.com/Collid3/cakelicious-client",
+      liveLink: "https://cakelicious.onrender.com",
+    },
+    {
       image: "chat2.png",
       name: "Chat App",
       description:
@@ -35,14 +43,6 @@ const Projects = () => {
         "Musicpad is an app for song writers to write their lyrics at. It is different from notepad as it has a feature for searching rhymes, provide meaning, synonyms and examples of the word you want to know about. Making it easier to write.",
       githubLink: "https://github.com/Collid3/musicpad",
       liveLink: "https://musicpad.onrender.com",
-    },
-    {
-      image: "cakelicious.png",
-      name: "Cakelicious",
-      description:
-        "An application I built for my sisters cake company. I saw an opportunity to get out of tutorial hell and make use of my skills while being creative and hard thinking and I took it. It is not finished yet, but i hope you get the idea of where I am going with it",
-      githubLink: "https://github.com/Collid3/cakelicious-client",
-      liveLink: "https://cakelicious.onrender.com",
     },
   ];
 

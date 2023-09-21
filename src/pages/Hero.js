@@ -10,7 +10,7 @@ const Hero = () => {
         <h1 className="text-6xl">
           <span className="font-normal text-4xl">HI, I AM</span> JERRY MASOLA
         </h1>
-        <h2 className="text-4xl">5 YEARS FULL STACK DEVELOPER</h2>
+        <h2 className="text-4xl">5 YEARS WEB DEVELOPER EXP</h2>
 
         <p>
           Hardworking and passionate Self-driven developer dedicated to
