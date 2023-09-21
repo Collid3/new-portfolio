@@ -55,6 +55,7 @@ header,
 footer {
   background-color: #0b0c10;
   max-width: 150rem;
+  margin: 0 auto;
 }
 
 header nav ul li {
