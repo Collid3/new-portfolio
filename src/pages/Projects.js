@@ -13,14 +13,6 @@ const Projects = () => {
       liveLink: "https://seroba-movies.onrender.com",
     },
     {
-      image: "cakelicious.png",
-      name: "Cakelicious",
-      description:
-        "An application I built for my sisters cake company. I saw an opportunity to get out of tutorial hell and make use of my skills while being creative and hard thinking and I took it. It is not finished yet, but i hope you get the idea of where I am going with it",
-      githubLink: "https://github.com/Collid3/cakelicious-client",
-      liveLink: "https://cakelicious.onrender.com",
-    },
-    {
       image: "chat2.png",
       name: "Chat App",
       description:
@@ -35,6 +27,14 @@ const Projects = () => {
         "An E-commerce application inspired by the app i made above this one called movies app. I developed it to sharpen my skills in being creative and make something out of nothing.",
       githubLink: "https://github.com/Collid3/seroba-store",
       liveLink: "https://seroba-store.onrender.com",
+    },
+    {
+      image: "cakelicious.png",
+      name: "Cakelicious",
+      description:
+        "An application I built for my sisters cake company. I saw an opportunity to get out of tutorial hell and make use of my skills while being creative and hard thinking and I took it. It is not finished yet, but i hope you get the idea of where I am going with it",
+      githubLink: "https://github.com/Collid3/cakelicious-client",
+      liveLink: "https://cakelicious.onrender.com",
     },
     {
       image: "musicpad.png",
